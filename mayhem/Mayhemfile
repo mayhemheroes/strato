@@ -1,0 +1,5 @@
+project: strato
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
